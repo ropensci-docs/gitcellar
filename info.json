@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5c761b993720ef51aeea81a94f01e34ae0c71c84",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2022-07-07 13:17:28",
+    "files": 4,
+    "merge": false,
+    "message": "Fix GitHub PAT finding (#7)\n\n"
+  },
+  "repo": "https://github.com/ropensci-org/gitcellar",
+  "pkg": "gitcellar"
+}
