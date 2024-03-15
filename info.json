@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5264f0b11653d04ae69af51f0e70fad2b6a8fcf5",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2023-10-17 10:52:17",
+    "files": 1,
+    "merge": false,
+    "message": "add try\n"
+  },
+  "repo": "https://github.com/ropensci-org/gitcellar",
+  "pkg": "gitcellar"
+}
