@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "dd08c93d0879b617a3e67bbf968501e2c310784a",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-02-18T15:23:27Z",
+    "files": 1,
+    "merge": false,
+    "message": "docs: register as staff-maintained\n\nas prep for ropensci/roweb3#1206"
+  },
+  "repo": "https://github.com/ropensci-org/gitcellar",
+  "pkg": "gitcellar",
+  "time": "2026-08-30T07:38:06Z"
+}
